@@ -1,13 +1,5 @@
 # TMICS
-Triple-level Model-Guided Collaborative Network Architecture for Video Deraining
+Triple-level Model Infered Collaborative Network Architecture for Video Deraining
 
-Basic Idea
-
-
-
-Installation
-
-
-
-Main Results
+Source code is avaliable at https://dut-media-lab/TMICS
 
